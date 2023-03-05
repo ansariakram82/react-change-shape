@@ -1,0 +1,15 @@
+.color-display {
+  height: 24vh;
+  width: 68vw;
+  border: 2px solid black;
+  border-radius: 4px;
+  margin: 20px 0;
+}
+.button-container button {
+  text-transform: uppercase;
+  font-weight: 500;
+  border-width: 2px;
+  margin-right: 10px;
+  max-width: fit-content;
+  width: 100%;
+}
